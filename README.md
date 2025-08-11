@@ -7,6 +7,9 @@ Hey there, I'm Pravin, a physics enthusiast who's been zapped by the machine lea
 
 ### 🌟 Featured Projects
 - ML for Physicists 2024: My playground of neural nets, autoencoders, and RL experiments from the course. Check out my spin on backpropagation and physics-inspired ML!
+  <img width="88" height="20" alt="image" src="https://github.com/user-attachments/assets/8ae34f89-08f1-4e8b-911e-272e94fbf330" /> <img width="86" height="20" alt="image" src="https://github.com/user-attachments/assets/1764f48a-98e9-4b6c-87b7-a6d49b6e56f5" />
+
+
 - I'm currently learning QuTip and would love to collaborate.
 - Coming Soon: A wild project using RL to tame a chaotic pendulum or maybe an autoencoder to decode quantum states. Stay tuned!
 
